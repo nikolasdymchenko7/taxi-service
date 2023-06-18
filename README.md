@@ -3,11 +3,16 @@
 
 This project is a simple solution for the taxi service. You can store manufacturers, drivers and cars and set up driver for the car if you need it.  
 
-### Functionality description
-You can manage your own taxi park. In this solution was implemented the following mechanisms: 
-- authentication
-- authorization 
-- storing and manipulating with database using jsp pages (CRUD operations)
+### Features
+- registration like a driver
+- authentication like a driver
+- create/remove/update a manufacturer
+- create/remove/update a car
+- create/remove/update a driver
+- display list of the manufacturers
+- display list of cars
+- display list of cars for logged driver
+- display list of manufacturers
 
 ### Project structure: 
 - controller: 
