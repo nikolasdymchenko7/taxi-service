@@ -40,10 +40,10 @@ This project is a simple solution for the taxi service. You can store manufactur
 - Java
 - maven
 - mysql
+- Java JDBC
 - jsp (JavaServlet pages)
 - jstl (Jakarta Standard Tag Library)
 - git
-- Java JDBC
 ### How to run project: 
 - Download and set up: tomcat 9.0.75, intellij idea ultimate, mysql and java 11
 - Open the project and run the script **init_db.sql** 
