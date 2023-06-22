@@ -37,7 +37,13 @@ This project is a simple solution for the taxi service. You can store manufactur
   - web.xml: servlets configurations
   - WEB-INF/views: described jsp pages
 ### Technologies: 
-Java, maven, mysql
+- Java
+- maven
+- mysql
+- jsp (JavaServlet pages)
+- jstl (Jakarta Standard Tag Library)
+- git
+- Java JDBC
 ### How to run project: 
 - Download and set up: tomcat 9.0.75, intellij idea ultimate, mysql and java 11
 - Open the project and run the script **init_db.sql** 
